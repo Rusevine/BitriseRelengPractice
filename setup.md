@@ -1,7 +1,14 @@
-## Setup Notes
+### Setup Notes
 
-1. Initialize fastlane 
+## Initialize fastlane 
     ```
     fastlane init
     ```
+## Set up Match
+    1. Initialize Match
+    
+    ``` 
+    fastlane match init
+    ```
 
+    
